@@ -17,6 +17,7 @@ Simple React **template** using Webpack 5
 
 - React
 - Webpack
+- TypeScript
 
 ## License
 
